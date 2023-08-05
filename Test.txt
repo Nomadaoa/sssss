@@ -25,7 +25,7 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 ;ruleset=🎯 全球直连,[]GEOIP,LAN
 ruleset=🎯 全球直连,[]GEOIP,CN
-ruleset=例外，https://raw.githubusercontent.com/Nomadaoa/sssss/master/Test.list
+ruleset=例外,https://raw.githubusercontent.com/Nomadaoa/sssss/master/Test.list
 ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]DIRECT`.*
